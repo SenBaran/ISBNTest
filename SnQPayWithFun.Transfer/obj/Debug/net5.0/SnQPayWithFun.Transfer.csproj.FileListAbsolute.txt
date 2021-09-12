@@ -1,0 +1,17 @@
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\SnQPayWithFun.Transfer.deps.json
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\SnQPayWithFun.Transfer.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\ref\SnQPayWithFun.Transfer.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\SnQPayWithFun.Transfer.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\CommonBase.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\SnQPayWithFun.Contracts.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\SnQPayWithFun.Contracts.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\bin\Debug\net5.0\CommonBase.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.csprojAssemblyReference.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.AssemblyInfo.cs
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.csproj.CopyComplete
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\ref\SnQPayWithFun.Transfer.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Transfer\obj\Debug\net5.0\SnQPayWithFun.Transfer.pdb

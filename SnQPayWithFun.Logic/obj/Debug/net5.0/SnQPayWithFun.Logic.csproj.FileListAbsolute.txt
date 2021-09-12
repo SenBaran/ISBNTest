@@ -1,0 +1,17 @@
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\SnQPayWithFun.Logic.deps.json
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\SnQPayWithFun.Logic.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\ref\SnQPayWithFun.Logic.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\SnQPayWithFun.Logic.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\CommonBase.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\SnQPayWithFun.Contracts.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\SnQPayWithFun.Contracts.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\bin\Debug\net5.0\CommonBase.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.csprojAssemblyReference.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.AssemblyInfo.cs
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.csproj.CopyComplete
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\ref\SnQPayWithFun.Logic.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Logic\obj\Debug\net5.0\SnQPayWithFun.Logic.pdb

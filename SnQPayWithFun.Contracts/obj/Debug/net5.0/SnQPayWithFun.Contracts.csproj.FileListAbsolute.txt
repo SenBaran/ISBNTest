@@ -1,0 +1,15 @@
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\bin\Debug\net5.0\SnQPayWithFun.Contracts.deps.json
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\bin\Debug\net5.0\SnQPayWithFun.Contracts.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\bin\Debug\net5.0\ref\SnQPayWithFun.Contracts.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\bin\Debug\net5.0\SnQPayWithFun.Contracts.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\bin\Debug\net5.0\CommonBase.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\bin\Debug\net5.0\CommonBase.pdb
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.csprojAssemblyReference.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.AssemblyInfo.cs
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.csproj.CopyComplete
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\ref\SnQPayWithFun.Contracts.dll
+C:\Users\baran\Desktop\prog lernen\SnQPayWithFun\SnQPayWithFun.Contracts\obj\Debug\net5.0\SnQPayWithFun.Contracts.pdb
